@@ -1,1 +1,3 @@
 # EDA-using-NLP
+
+This project aims to wrangle a large set of job advertisement records stored in XML format with unknown data quality issues, integrating this dataset with another data source while identifying and resolving conflicts. The project includes three tasks: In Task 1, explore and identify the dataset format, then parse it into a pandas dataframe using appropriate Python tools and libraries. In Task 2, further explore the parsed data, fix any data problems, and output the clean data in the required format. Finally, in Task 3, integrate the cleaned dataset with a second dataset, resolve schema-level conflicts, merge the data, and fix any data-level conflicts.
